@@ -1,7 +1,7 @@
 const express = require("express");
 const { Telegraf, Markup } = require("telegraf");
 
-const bot = new Telegraf("YOUR_NEW_BOT_TOKEN");
+const bot = new Telegraf("7272627383:AAFYkvzCrIDgmejz2wcFuoMPwBr1fNS0R2s");
 const app = express();
 
 const CHANNEL_USERNAME = "@stake_rj4king";
